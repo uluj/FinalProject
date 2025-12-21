@@ -35190,6 +35190,7 @@ MonoBehaviour:
   mainMenu: {fileID: 694092831}
   loseScreen: {fileID: 55191449}
   winScreen: {fileID: 772285216}
+  CurrentLevel: {fileID: 11400000, guid: 154fabadc3d6bd94c87376c74c6fa115, type: 2}
   points: 0
 --- !u!4 &794973978
 Transform:
